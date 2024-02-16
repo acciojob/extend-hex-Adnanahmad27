@@ -1,6 +1,6 @@
 const extendHex = (shortHex) => {
   //write your code here
-	let res = '';
+	let res = '#';
 	let i = 0;
 	if(shortHex.length === 4){
 		i++;
